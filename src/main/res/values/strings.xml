@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- _5th_nav_page___weather_ strings -->
+
+    <string name="app_name">Page 1</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="lake_virginia_string">Lake Virginia</string>
+    <string name="cloudy_string">Cloudy</string>
+    <string name="__c_string">C</string>
+    <string name="_27_string">27</string>
+    <string name="aqi_14_string">AQI 14</string>
+    <string name="today___thunderstorm_string">Today  Thunderstorm</string>
+    <string name="fri___thunderstorm_string">Fri  Thunderstorm</string>
+    <string name="_29____25__string">29 / 25</string>
+    <string name="_25____20__string">25 / 20</string>
+    <string name="_30____25__string">30 / 25</string>
+    <string name="tommorow___cloudy_string">Tommorow  Cloudy</string>
+    <string name="weather_string">Weather</string>
+    <string name="_12_30_string">12:30</string>
+    <string name="today__string">Today:</string>
+    <string name="notifications_string">Water Details</string>
+    <string name="_12_30_ek1_string">12:30</string>
+    <string name="water_activities_string">Water Activities</string>
+    <string name="weather_ek1_string">Weather</string>
+    <string name="water_details_string">Water Details</string>
+    <string name="home_ek1_string">Home</string>
+    <string name="_12_30_ek2_string">12:30</string>
+    <string name="lake_virginia_water_activities_sailing_swimming__boat_tours_paddle_boarding_string">Lake Virginia                Water Activities Sailing                                                      SwimmingBoat Tours                               Paddle Boarding</string>
+    <string name="lake_virginia_offers_many_water_activities_such_as_sailing__boat_tours_swimming_paddle_boarding_string">Lake Virginia offers many Water Activities such asSailingBoat ToursSwimmingPaddle Boarding</string>
+    <string name="water_activities_ek1_string">Water Activities</string>
+    <string name="_12_30_ek3_string">12:30</string>
+</resources>
