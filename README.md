@@ -1,4 +1,4 @@
-# test2
+# Mobile App Dev final project
 
 
 This is the basic github for our final project feel free to add other android studio file acordingly
